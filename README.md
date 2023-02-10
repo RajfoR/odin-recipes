@@ -1,0 +1,1 @@
+This project is website with some recipes. They contain images, ingredients and steps how to make certain meal.
